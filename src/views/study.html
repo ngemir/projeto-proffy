@@ -62,6 +62,12 @@
         </header>
         
         <main>
+            
+            {% if proffys == "" %}
+                	<p class="no-results">Nenhum professor encontrado com a sua pesquisa.</p>
+            {% else %}
+            
+            
             <!-- Repetição que o template engine -Nunjucks- fornece-->
             <!-- Para cara dados -proffy- dentro do objeto -proffys- repita  -->
             {%for proffy in proffys %}
@@ -94,7 +100,7 @@
                 
                 {%endfor %}
                 
-                
+                ^{% endif %}
             </main>
         </div>
         
