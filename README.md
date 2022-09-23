@@ -2,11 +2,15 @@
 Criando o projeto proffy, um projeto desenvolvido no Next Level Week que é um evento da Rocketseat. 
 É uma plataforma de ensino. Cadastrando professores em suas datas e horas disponíveis. E no outro o aluno procura o professor disponível em data e hora que deseja, caso encontre, terá os dados mostrados. 
 
-## Demo
+## Preview
 ### Desktop
 ![Proffy Desktop Demo](images/Proffy-desktop.gif)
 ### Mobile
 ![Proffy Mobile Demo](images/Proffy-Mobile.gif)
+
+## [🔗Acesse por aqui](https://projeto-proffy.vercel.app/)
+### ⚠ Ele não irá salvar o professor e o horário por não estar ligado a banco de dados.
+
 
 ## Conteúdos
 * [Como utilizar](#como-utilizar)
