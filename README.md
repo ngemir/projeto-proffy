@@ -9,7 +9,7 @@ Criando o projeto proffy, um projeto desenvolvido no Next Level Week que é um e
 ![Proffy Mobile Demo](images/Proffy-Mobile.gif)
 
 ## [🔗Acesse por aqui](https://projeto-proffy.vercel.app/)
-### ⚠ Ele não irá salvar o professor e o horário por não estar ligado a banco de dados.
+⚠ Ele não irá salvar o professor e o horário por não estar ligado a banco de dados pelo site disponibilizado.
 
 
 ## Conteúdos
